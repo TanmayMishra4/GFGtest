@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b61532f5-6d20-4531-9bb2-c75f5d754545" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XlKmWxe4X8Fx7e74co63VkgjJL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.TestAlgs4">
+    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG" />
+      <module name="GFGTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="GFGTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Man" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Man" />
+      <module name="GFGTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PercolationStats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PercolationStats" />
+      <module name="GFGTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAlgs4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestAlgs4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestAlgs4" />
+        <item itemvalue="Application.PercolationStats" />
+        <item itemvalue="Application.Man" />
+        <item itemvalue="Application.GFG" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b61532f5-6d20-4531-9bb2-c75f5d754545" name="Default Changelist" comment="" />
+      <created>1581615401194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581615401194</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="192" key="#Inspections" timestamp="1587665204187">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="192" key="#Inspections/0.0.1680.1050@0.0.1680.1050" timestamp="1587665204187" />
+    <state x="515" y="186" key="#TestAlgs4" timestamp="1587667017278">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="515" y="186" key="#TestAlgs4/0.0.1680.1050@0.0.1680.1050" timestamp="1587667017278" />
+    <state x="578" y="280" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1587639956497">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="280" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1587639956497" />
+    <state width="1638" height="316" key="GridCell.Tab.0.bottom" timestamp="1587667064549">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="316" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1587667064549" />
+    <state width="1638" height="363" key="GridCell.Tab.0.bottom/0.23.1680.954@0.23.1680.954" timestamp="1581701026124" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1587641697614" />
+    <state width="1638" height="316" key="GridCell.Tab.0.center" timestamp="1587667064548">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="316" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1587667064548" />
+    <state width="1638" height="363" key="GridCell.Tab.0.center/0.23.1680.954@0.23.1680.954" timestamp="1581701026120" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1587641697614" />
+    <state width="1638" height="316" key="GridCell.Tab.0.left" timestamp="1587667064547">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="316" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1587667064547" />
+    <state width="1638" height="363" key="GridCell.Tab.0.left/0.23.1680.954@0.23.1680.954" timestamp="1581701026120" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1587641697613" />
+    <state width="1638" height="316" key="GridCell.Tab.0.right" timestamp="1587667064549">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="316" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1587667064549" />
+    <state width="1638" height="363" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1581701026123" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1587641697614" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1581701026127">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581615700725" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.23.1680.954@0.23.1680.954" timestamp="1581701026127" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1581701026126">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581615700723" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.23.1680.954@0.23.1680.954" timestamp="1581701026126" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1581701026125">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581615700722" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.23.1680.954@0.23.1680.954" timestamp="1581701026125" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1581701026126">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581615700724" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.23.1680.954@0.23.1680.954" timestamp="1581701026126" />
+    <state x="328" y="108" key="SettingsEditor" timestamp="1587663709879">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="328" y="108" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1587663709879" />
+    <state x="494" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1587666993712">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="494" y="359" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1587666993712" />
+    <state x="406" y="269" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1581615685592">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="406" y="269" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1680.1050@0.0.1680.1050" timestamp="1581615685592" />
+    <state x="217" y="129" key="new project wizard" timestamp="1587663556588">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="217" y="129" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1587663556588" />
+    <state x="546" y="140" key="refactoring.ChangeSignatureDialog" timestamp="1587664302777">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="546" y="140" key="refactoring.ChangeSignatureDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1587664302777" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1587636709098">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1587636709098" />
+  </component>
+</project>
